@@ -10,7 +10,7 @@ class DeviceInfoSensorApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Device Info & Sensor',
+      title: 'DeviceSense',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
